@@ -1,0 +1,7 @@
+database:
+  host: localhost # environment variables
+  port: 5432
+  username: postgres
+  password: arzel
+  databaseName: db_reads
+##
